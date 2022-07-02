@@ -1,1 +1,15 @@
-
+def palindrome(s):
+    s=s.replace(" ","")    
+    k=s[::-1]
+    x=0
+    l=len(s)
+    for i in range(l):
+        if s[i]==k[i]: 
+            x+=1  
+        else:
+            pass
+    if x==l:
+        print('phrase is palindrome')
+    else:
+        print('phrase is not palindrome')
+                
