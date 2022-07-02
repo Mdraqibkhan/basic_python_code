@@ -1,2 +1,1 @@
-# Hous_price_pridiction
-Machine Learning Project for house price prediction 
+# python_code_to check_pangram Sentence
