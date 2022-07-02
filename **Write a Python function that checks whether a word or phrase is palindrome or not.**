@@ -13,3 +13,8 @@ def palindrome(s):
     else:
         print('phrase is not palindrome')
                 
+
+
+
+# palindrome('nurses run')-->phrase is palindrome
+# palindrome('racecarr')--->'phrase is not palindrome
